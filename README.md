@@ -1,16 +1,9 @@
-# flutter_currency_converter
+# Flutter currency converter:
 
-A new Flutter project.
+A simple Flutter application that converts Pakistani Rupees (PKR) into 5 currencies: USD, GBP, EUR, SAR, and TRY. The app fetches real-time exchange rates using an API, ensuring accurate and up-to-date currency conversions.
 
-## Getting Started
+# Features:
 
-This project is a starting point for a Flutter application.
+ that converts Pakistani Rupees (PKR) into 5 currencies: USD, GBP, EUR, SAR, and TRY. The app fetches real-time exchange rates using an API, ensuring accurate and up-to-date currency conversions.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="960" alt="Currency_converter_snippet" src="https://github.com/user-attachments/assets/46b62024-32c2-44a9-8ec4-48ce1a2cf939">

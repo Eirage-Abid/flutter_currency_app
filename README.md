@@ -16,4 +16,9 @@ Toast Messages: Shows toast notifications if the input field is empty.
 # ExchangeRate API
 This API is used in the app for fetching real-time rates to for conversion
 
+# Screenshots
+
 <img width="960" alt="Currency_converter_snippet" src="https://github.com/user-attachments/assets/46b62024-32c2-44a9-8ec4-48ce1a2cf939">
+
+<img width="256" alt="dropdown" src="https://github.com/user-attachments/assets/9df5461d-d8eb-490b-a520-ad63a509e44b">
+
